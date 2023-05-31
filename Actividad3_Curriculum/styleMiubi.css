@@ -1,0 +1,42 @@
+html{
+    background-color: bisque;
+}
+body{
+    height: 800px;
+    width: 550px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.header{
+    height: 50px;
+    width: 550px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid darkcyan;
+}
+.main{
+    height: 650px;
+    width: 550px;
+    background-color: white;
+    border: 1px solid darkcyan;
+}
+p{
+    font-size: 20px;
+}
+.center{
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+footer{
+    height: 100px;
+    width: 550px;
+    background-color: white ;
+    border: 1px solid darkcyan;
+}
